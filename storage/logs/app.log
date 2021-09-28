@@ -1,0 +1,17 @@
+2021/09/20 13:08:48 {"callers":["/Users/sunzan/golang/src/gin-test/bootstrap/app.go: 30 github/siafei/gin-test/bootstrap.NewApp"],"level":"info","message":"test-log","time":1632114528269160000}
+2021/09/20 13:09:25 {"callers":["/Users/sunzan/golang/src/gin-test/bootstrap/app.go: 30 github/siafei/gin-test/bootstrap.NewApp"],"level":"error","message":"test-log","time":1632114565697324000}
+2021/09/20 13:43:21 {"callers":["/Users/sunzan/golang/src/gin-test/bootstrap/app.go: 30 github/siafei/gin-test/bootstrap.NewApp"],"level":"error","message":"test-log","time":1632116601283035000}
+2021/09/20 13:43:22 {"callers":["/Users/sunzan/golang/src/gin-test/bootstrap/app.go: 30 github/siafei/gin-test/bootstrap.NewApp"],"level":"error","message":"test-log","time":1632116602665367000}
+2021/09/20 13:43:31 {"callers":["/Users/sunzan/golang/src/gin-test/bootstrap/app.go: 30 github/siafei/gin-test/bootstrap.NewApp"],"level":"error","message":"test-log","time":1632116611711394000}
+2021/09/20 13:45:29 {"callers":["/Users/sunzan/golang/src/gin-test/bootstrap/app.go: 30 github/siafei/gin-test/bootstrap.NewApp"],"level":"error","message":"test-log","time":1632116729653419000}
+2021/09/20 13:45:31 {"callers":["/Users/sunzan/golang/src/gin-test/bootstrap/app.go: 30 github/siafei/gin-test/bootstrap.NewApp"],"level":"error","message":"test-log","time":1632116731504988000}
+2021/09/20 13:45:32 {"callers":["/Users/sunzan/golang/src/gin-test/bootstrap/app.go: 30 github/siafei/gin-test/bootstrap.NewApp"],"level":"error","message":"test-log","time":1632116732333428000}
+2021/09/20 13:46:12 {"callers":["/Users/sunzan/golang/src/gin-test/bootstrap/app.go: 30 github/siafei/gin-test/bootstrap.NewApp"],"level":"error","message":"test-log","time":1632116772372415000}
+2021/09/20 13:46:28 {"callers":["/Users/sunzan/golang/src/gin-test/bootstrap/app.go: 30 github/siafei/gin-test/bootstrap.NewApp"],"level":"error","message":"test-log","time":1632116788902101000}
+2021/09/20 13:46:43 {"callers":["/Users/sunzan/golang/src/gin-test/bootstrap/app.go: 30 github/siafei/gin-test/bootstrap.NewApp"],"level":"error","message":"test-log","time":1632116803095831000}
+2021/09/20 13:46:44 {"callers":["/Users/sunzan/golang/src/gin-test/bootstrap/app.go: 30 github/siafei/gin-test/bootstrap.NewApp"],"level":"error","message":"test-log","time":1632116804282982000}
+2021/09/20 13:46:48 {"callers":["/Users/sunzan/golang/src/gin-test/bootstrap/app.go: 30 github/siafei/gin-test/bootstrap.NewApp"],"level":"error","message":"test-log","time":1632116808144436000}
+2021/09/20 13:46:54 {"callers":["/Users/sunzan/golang/src/gin-test/bootstrap/app.go: 30 github/siafei/gin-test/bootstrap.NewApp"],"level":"error","message":"test-log","time":1632116814685874000}
+2021/09/20 13:47:09 {"callers":["/Users/sunzan/golang/src/gin-test/bootstrap/app.go: 30 github/siafei/gin-test/bootstrap.NewApp"],"level":"error","message":"test-log","time":1632116829533747000}
+2021/09/20 13:47:10 {"callers":["/Users/sunzan/golang/src/gin-test/bootstrap/app.go: 30 github/siafei/gin-test/bootstrap.NewApp"],"level":"error","message":"test-log","time":1632116830792843000}
+2021/09/20 13:47:35 {"callers":["/Users/sunzan/golang/src/gin-test/bootstrap/app.go: 30 github/siafei/gin-test/bootstrap.NewApp"],"level":"error","message":"app.BindAndValid errs: State必须是[0 1]中的一个","time":1632116855770898000}
