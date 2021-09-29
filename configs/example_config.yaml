@@ -12,8 +12,8 @@ App:
 Database:
   DBType: mysql
   Username: root  # 填写你的数据库账号
-  Password: Sz4889212  # 填写你的数据库密码
-  Host: 114.215.139.30:3306
+  Password: ******  # 填写你的数据库密码
+  Host: *********
   DBName: gin-test
   Charset: utf8
   ParseTime: True
@@ -22,8 +22,8 @@ Database:
 Database2:
   DBType: mysql
   Username: root  # 填写你的数据库账号
-  Password: Sz4889212  # 填写你的数据库密码
-  Host: 114.215.139.30:3306
+  Password: ********  # 填写你的数据库密码
+  Host: ********
   DBName: test
   Charset: utf8
   ParseTime: True
@@ -31,7 +31,7 @@ Database2:
   MaxOpenConns: 30
 Redis:
   Username: root
-  Password: 4889212
-  Host: 114.215.139.30
+  Password: ********
+  Host: ********
   Port: 6379
   DB: 1
